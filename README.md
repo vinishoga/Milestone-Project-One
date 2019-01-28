@@ -1,5 +1,4 @@
-# Milestone-Project-One
-
+# Milestone-Project-infans PISTRIS
 
 This Project refers to the first milestone project that the Udemy Course "Python: From Zero to Hero" asks to do.
 
